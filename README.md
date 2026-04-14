@@ -4,10 +4,6 @@ Best assistant for tech and IT people
 
 A fast, modern desktop application built to streamline Active Directory management for Tier 1 Helpdesk operations. It bridges the gap between raw PowerShell scripts and heavy Microsoft RSAT tools, providing a secure, user-friendly interface for daily IT tasks.
 
-## Visuals
-*(Drop a screenshot of your Login Screen, Main Dashboard, and Audit Panel here so visitors can immediately see the UI)*
-## Core Features
-
 * **Smart Dashboard & User Management:** Look up users instantly via Logon ID or Asset Tag. View health status, last logon, and security group memberships at a glance.
 * **1-Click Quick Actions:** * Unlock accounts and toggle enable/disable states.
   * Edit standard profile attributes (Title, Department, Asset Tag, Phone).
